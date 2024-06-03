@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uso-Api_Pokemon", "Uso-Api_Pokemon\Uso-Api_Pokemon.csproj", "{FFA2F68E-D2D8-4C87-856E-3D140B83B34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFA2F68E-D2D8-4C87-856E-3D140B83B34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA2F68E-D2D8-4C87-856E-3D140B83B34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA2F68E-D2D8-4C87-856E-3D140B83B34B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FFA2F68E-D2D8-4C87-856E-3D140B83B34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA2F68E-D2D8-4C87-856E-3D140B83B34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA2F68E-D2D8-4C87-856E-3D140B83B34B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85283CE0-67DB-4825-A7B2-40893F138550}
+	EndGlobalSection
+EndGlobal
